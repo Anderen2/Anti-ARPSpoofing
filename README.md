@@ -8,11 +8,11 @@ OS:
   Linux/Unix variant
 
 Pythonmodules:
-  sh
+  sh,
   twisted
 
 Other programs:
-  notify-send
+  notify-send,
   arpwatch
 
 DISCLAIMER: Keep in mind that the code on this were written by me when I was half-asleep, so its nowhere near pretty, or stable for that sake.
